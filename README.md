@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi~ I'm Yicen (Eden) Liu @yicenl2.
+- I like coding. I work on aerosol modeling and high-performance computing.
+- I'm currently pursuing a Ph.D. in Environmental Engineering at the University of Illinois Urbana-Champaign.
+- You may contact me via email yicenl2@illinois.edu or yicenliu2@gmail.com.
+- Feel free to check my personal website on the left!
+
 
 <!--
 **yicenl2/yicenl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
